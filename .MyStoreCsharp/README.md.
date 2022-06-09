@@ -1,0 +1,7 @@
+MyStoreUsingC#.
+Automation test TCSL
+
+This project Based of Selenium,C#,(Page Object Model(POM) with Data driven not implemented only framwork(Folders).
+*import the Project on your local matchien
+
+To Run the project go to -> testCase folder -> open TC001 run the test.
