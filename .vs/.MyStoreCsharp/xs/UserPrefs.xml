@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{9BA9E107-3ACC-4701-90C4-77265B7B3738}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties..MyStoreCsharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument=".MyStoreCsharp.sln">
+    <Files>
+      <File FileName=".MyStoreCsharp.sln" Line="19" Column="49" IsPinned="True" />
+      <File FileName="PageObject.config" Line="1" Column="1" />
+      <File FileName=".MyStoreCsharp/testCase/TC001.cs" Line="66" Column="19" />
+      <File FileName=".MyStoreCsharp/TestBase/BasseClass.cs" Line="32" Column="6" />
+      <File FileName=".MyStoreCsharp/PageObjects/AddToCartPage.cs" Line="9" Column="1" />
+      <File FileName=".MyStoreCsharp/PageObjects/DescriptionPage.cs" Line="1" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name=".MyStoreCsharp" expanded="True" selected="True">
+            <Node name=".MyStoreCsharp" expanded="True">
+              <Node name="PageObjects" expanded="True" />
+              <Node name="TestBase" expanded="True" />
+              <Node name="testCase" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name=".MyStoreCsharp" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
